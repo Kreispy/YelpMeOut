@@ -1,18 +1,11 @@
-CIS 330 – SPRING 2013
-
-FINAL PROJECT
-
-YELP ME OUT!
-
-Java servlet application utilizing a MySQL formatted Yelp! dataset
+## YELP ME OUT!
+##### Java servlet application utilizing a MySQL formatted Yelp! dataset
 
 
-Project Description:
-
+### Project Description:
 Yelp Me Out is a pick-up-and-go web app that build upon the yelp academic database to provide a recommendation service where by users can plan a brief itinerary of places that they need to go within a given day. Our recommendation engine suggests a local business that fits the input criteria of the user and provide them with necessary information, location, as well as directions in a minimalist but relevant and organized format.
 
-Technology:
-
+### Technology:
 Database: MySQL
 
 Backend: Java Servlet, Java, JSP
@@ -45,6 +38,7 @@ same set of input.
 9. Maintain path continuity where by the user’s queried result are organized in a logical order regardless of results of user queries (user queries may return empty set in the middle of a trip – implementation maintains consistency in these cases).
 
 Please read the Project Report document for additional information.
+
 ========================================================================================================================
 
 YMO folder contains the following front-end and back-end files
