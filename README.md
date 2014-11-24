@@ -15,7 +15,7 @@ Front End: HTML & CSS
 UI Framework: Twitter Bootstrap
 
 
-Feature Set:
+### Feature Set:
 
 1. Flexible address input processing where user can enter a variety of location data, including full address, partial 
 address, city, state or even landmarks.
