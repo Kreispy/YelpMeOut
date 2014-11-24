@@ -45,7 +45,6 @@ same set of input.
 9. Maintain path continuity where by the user’s queried result are organized in a logical order regardless of results of user queries (user queries may return empty set in the middle of a trip – implementation maintains consistency in these cases).
 
 Please read the Project Report document for additional information.
-
 ========================================================================================================================
 
 YMO folder contains the following front-end and back-end files
